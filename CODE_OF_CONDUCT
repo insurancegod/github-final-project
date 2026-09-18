@@ -60,7 +60,14 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-.
+https://github.com/insurancegod/github-final-project/issues.
+
+Reporting process:
+1. Open an issue in this repository describing the incident.
+2. Community leaders will review and investigate all complaints promptly and fairly.
+3. Community leaders will take appropriate corrective action.
+4. Community leaders will respect the privacy and security of the reporter of any incident.
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
